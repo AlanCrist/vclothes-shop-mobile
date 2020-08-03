@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "351973484094",
+    "firebase_url": "https://vclothes-shop.firebaseio.com",
+    "project_id": "vclothes-shop",
+    "storage_bucket": "vclothes-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351973484094:android:fa458c97e5b79da0bcd36f",
+        "android_client_info": {
+          "package_name": "com.alancrist.vclothes_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351973484094-2c32m2au3uh0spu6t2merijjfod3m962.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgpkSKB_RWv14mlu-d7r41e4glHIovjzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351973484094-2c32m2au3uh0spu6t2merijjfod3m962.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
